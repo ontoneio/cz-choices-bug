@@ -34,8 +34,11 @@ module.export = {
       { value: 'WIP', name: 'WIP:      Work in progress' },
     ],
 
-    // scopes: getAllScopes(),
+    // UNCOMMENT 1 OR 2
+    // 1. Dynamic scopes do not work even when invoked before loaded
     scopes: [...packagedScopes], //?
+    // 2. Scoping from examples breaks as well
+    // scopes: [{ name: 'accounts' }, { name: 'admin' }, { name: 'exampleScope' }, { name: 'changeMe' }], //?
 
     // allowTicketNumber: false,
     // isTicketNumberRequired: false,
