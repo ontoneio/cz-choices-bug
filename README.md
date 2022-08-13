@@ -18,7 +18,7 @@
 - When following documentation there is no reference to providing any kind of `choices` parameter
 - Tried using `tools/projectScopes.js` to implement custom scopes function for use with other tooling. ex: `commitlint`
 - Also tried barebones example config from repo with similar results
-- Dynamic and static config test setups in `.cz-config.js` can be found on starting on line `37`.
+- Dynamic and static config test setups in `tools/.cz-config.js` can be found on starting on line `37`.
 
 #### Steps taken
 
