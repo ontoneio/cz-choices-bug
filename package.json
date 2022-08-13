@@ -1,0 +1,26 @@
+{
+  "name": "cz-choices-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts":{
+    "prepare-commit":"cz -e"
+  },
+  "config": {
+    "commitizen": {
+      "path": "node_modules/cz-customizable"
+    },
+    "cz-customizable": {
+      "config": "tools/.cz-config.js"
+    }
+  },
+  "workspaces": [
+    "apps/app1",
+    "apps/app2"
+  ],
+  "devDependencies": {
+    "commitizen": "^4.2.5",
+    "cz-cli": "^1.0.0",
+    "cz-customizable": "^6.9.1"
+  }
+}
