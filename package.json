@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "private": true,
   "scripts":{
     "prepare-commit":"cz -e",
     "commit": "./node_modules/cz-customizable/standalone.js"
@@ -21,7 +22,6 @@
   ],
   "devDependencies": {
     "commitizen": "^4.2.5",
-    "cz-cli": "^1.0.0",
     "cz-customizable": "^6.9.1"
   }
 }

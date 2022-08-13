@@ -357,11 +357,6 @@ create-require@^1.1.0:
   resolved "https://registry.yarnpkg.com/create-require/-/create-require-1.1.1.tgz#c1d7e8f1e5f6cfc9ff65f9cd352d37348756c333"
   integrity sha512-dcKFX3jn0MpIaXjisoRvexIJVEKzaq7z2rZKxf+MSr9TkdmHmsU4m2lcLojrj/FHl8mk5VxMmYA+ftRkP/3oKQ==
 
-cz-cli@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/cz-cli/-/cz-cli-1.0.0.tgz#9ab2e6f98cfb6f7524d1a7b47e871131a3a21785"
-  integrity sha512-z2qkYfRAbn3zPug3HEApmYFNpTW3tvePlC0JTGhrBfkkQu8B0vEJfJds2hzH3Jq079zsKAPKhICJ8rqh+CUvFg==
-
 cz-conventional-changelog@3.3.0:
   version "3.3.0"
   resolved "https://registry.yarnpkg.com/cz-conventional-changelog/-/cz-conventional-changelog-3.3.0.tgz#9246947c90404149b3fe2cf7ee91acad3b7d22d2"
