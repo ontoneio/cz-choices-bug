@@ -5,7 +5,7 @@
   "license": "MIT",
   "private": true,
   "scripts":{
-    "prepare-commit":"cz -e",
+    "prepare-commit":"cz",
     "commit": "./node_modules/cz-customizable/standalone.js"
   },
   "config": {
