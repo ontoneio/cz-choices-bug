@@ -19,6 +19,7 @@
 - Tried using `tools/projectScopes.js` to implement custom scopes function for use with other tooling. ex: `commitlint`
 - Also tried barebones example config from repo with similar results
 - Dynamic and static config test setups in `tools/.cz-config.js` can be found on starting on line `37`.
+- Seems similar to issue [#87](https://github.com/leoforfree/cz-customizable/issues/87) which was not resolved in a clear manner other than providing the example file which also fails.
 
 #### Steps taken
 
