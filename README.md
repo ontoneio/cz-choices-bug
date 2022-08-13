@@ -9,7 +9,6 @@
 - Nodejs: `16.16.0`
 - Yarn: `1.22.19`
 - commitizen: 4.2.5
-- cz-cli: 1.0.0
 - cz-customizable: 6.9.1
 
 ### Brief
